@@ -9,7 +9,7 @@ Note: I made this project to accomplish project1 portion of HarvardX CS50W cours
 
 # `App name:` internetbooks
 
-``Breif description:`` This is a simple book review app made with flask. To use this website features you have to login first. Anyone can register in this website. After registration and logged into the website people can search for books, view reviews on particular book and can submit his own review.
+``Brief description:`` This is a simple book review app made with flask. To use this website features you have to login first. Anyone can register in this website. After registration and logged into the website people can search for books, view reviews on particular book and can submit his own review.
 
 Technology used:
 HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON, FLASK, SQLALCHEMY, POSTGRESQL
